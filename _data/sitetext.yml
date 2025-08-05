@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Bienvenidos al evento bibliotecario!
-    text: Que se llevara a cabo del 1 al 3 de octubre de 2025
+    text: Biblio Event 2025
     button: Saber más
     buttonlink: "#services"
 
