@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bienvenidos al evento bibliotecario!
+    text: Que se llevara a cabo del 1 al 3 de octubre de 2025
+    button: Saber más
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Agenda"
     text: "Lorem ipsum"
-    section: services
+    section: agenda
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
